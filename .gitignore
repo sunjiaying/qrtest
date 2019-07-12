@@ -1,0 +1,12 @@
+www/
+node_modules/
+plugins/
+platforms/
+package-lock.json
+.DS_Store
+.vscode/
+.gradle/
+
+chcpbuild.options
+# config.xml
+yarn.lock
