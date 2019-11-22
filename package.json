@@ -30,7 +30,7 @@
     "cordova-plugin-zip": "^3.1.0",
     "gizscanqrcode": "^1.1.22",
     "phonegap-plugin-multiview": "git+https://github.com/sunjiaying/phonegap-plugin-multiview.git",
-    "vant": "^1.0.1",
+    "vant": "^2.2.14",
     "vant-css": "^1.0.1",
     "vue": "^2.5.16",
     "vue-router": "^3.0.0",
